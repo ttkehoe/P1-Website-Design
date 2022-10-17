@@ -1,5 +1,7 @@
 * {
     margin: 0;
+    background-color: #0B0B45;
+    font-family: sans-serif;
 }
 
 .nav-bar {
@@ -13,6 +15,7 @@
 }
 
 .nav-bar a {
+    background-color: grey;
     padding: 10px;
     object-fit: contain;
     color:black;
@@ -21,6 +24,33 @@
 }
 
 .nav-bar a:hover {
-    background-color: lightgrey;
     cursor: pointer;
+    font-weight: bolder;
+    color: cyan;
 }
+
+.my-info {
+    color: white;
+}
+
+.my-info h1 {
+    margin: 15px;
+}
+
+.text {
+    margin-left: 100px;
+    margin-top: 35vh;
+}
+
+.name-header {
+    color: white;
+}
+
+.pic-and-info {
+    display: flex;
+}
+
+.my-pic {
+    height: 20%;
+}
+
