@@ -52,6 +52,7 @@
 
 .my-pic {
     height: 20%;
+    margin-right: 30px;
 }
 
 #fav-header {
@@ -91,6 +92,10 @@
     font-size: 30px;
     color:white;
     font-weight: bold;
+}
+
+img {
+    height:85vh;
 }
 
 
