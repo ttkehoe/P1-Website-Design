@@ -54,3 +54,43 @@
     height: 20%;
 }
 
+#fav-header {
+    margin-top: 50px;
+    color:white;
+}
+
+.lists {
+    margin-top: 25vh;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    align-items: center;
+    font-size: larger;
+}
+
+.lists h2 {
+    color: cyan;
+}
+
+.lists li {
+    color: white;
+}
+
+.songs {
+    padding-right: 150px;
+}
+
+.artists {
+    padding-left: 150px;
+}
+
+.music-footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    font-size: 30px;
+    color:white;
+    font-weight: bold;
+}
+
+
